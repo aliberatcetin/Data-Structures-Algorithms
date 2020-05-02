@@ -1,0 +1,10 @@
+Cem; Ayse, Ferit, Dundar
+Ayse; Cem, Ferit, Dundar, Belma
+Belma; Ayse, Dundar, Edip
+Edip; Belma, Dundar, Gamze
+Dundar; Ayse, Belma, Cem, Ferit, Gamze, Edip
+Gamze; Dundar, Edip, Ferit, Halit
+Ferit; Ayse, Cem, Dundar, Gamze, Halit
+Halit; Ferit, Gamze, Ilke
+Ilke; Halit, Jale
+Jale; Ilke
